@@ -4,5 +4,5 @@
 - Atualmente trabalhamos com **JavaScript** na plataforma P5JS 🔥;
 - Para contato email: _00001094393514sp@al.educacao.sp.gov.br 🌍;
 
-![].(https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif).
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif).
   
